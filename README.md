@@ -1,0 +1,2 @@
+# PEMBERIAN-PAKAN-OTOMATIS-IKAN-GABUS-BERBASIS-AIOT-MENGGUNAKAN-FUZZY-MAMDANI
+Project IoT menggunakan 2 mikrokontroller dan 3 sensor
